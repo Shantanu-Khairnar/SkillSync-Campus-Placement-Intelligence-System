@@ -37,17 +37,14 @@ The project aims to help college placement departments organize student placemen
 ```text
 SkillSync-Campus-Placement-Intelligence-System/
 │
-├── SQL/
-│   ├── 01_Create_Database.sql
-│   ├── 02_Create_Tables.sql
-│   ├── 03_Insert_Database.sql
-│   └── 04_Select_Queries.sql
-│
-├── Python/          (Planned)
-├── PowerBI/         (Planned)
-├── Assets/
-├── Documentations/
-└── README.md
+├── 01_Create_Database.sql
+├── 02_Create_Tables.sql
+├── 03_Insert_Database.sql
+├── 04_Select_Queries.sql
+├── Python/                 (Planned)
+├── PowerBI/                (Planned)
+├── README.md
+└── Readme.md
 ```
 
 ## Development Roadmap
